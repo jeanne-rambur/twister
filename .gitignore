@@ -1,0 +1,8 @@
+# Base React files
+twisterapp-client/node_modules
+twisterapp-client/package*
+twisterapp-client/public
+twisterapp-client/README.md
+# Exclude compiled files from server part
+technoweb-serveur/build
+technoweb-serveur/RemoteSystemsTempFiles
