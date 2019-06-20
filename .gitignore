@@ -1,6 +1,7 @@
 # Base React files
 twisterapp-client/node_modules
-twisterapp-client/package*
+twisterapp-client/package-lock.json
+twisterapp-client/package.json
 twisterapp-client/public
 twisterapp-client/README.md
 # Exclude compiled files from server part
